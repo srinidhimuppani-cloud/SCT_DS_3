@@ -10,6 +10,9 @@ The objective of this task is to build a *Decision Tree Classifier* to predict w
 * *Key Insights:* 
   * *Call Duration (duration):* The primary split factor determining subscription probability.
   * *Previous Outcome (poutcome_success):* Past successful marketing engagements strongly correlate with new subscriptions.
+## 🌳 Decision Tree Visualization
+![Decision Tree Diagram](clean_decision_tree.png)
+
 
 ## 🛠️ Tech Stack
 * *Language:* Python
